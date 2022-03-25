@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 3908fb05a73e77f42b17a0886c699f38
+  - enabled: 1
+    path: Assets/Scenes/The Last Survivor.unity
+    guid: 7395345dcd55cb74ca737fb7859f3bdb
+  - enabled: 1
+    path: Assets/Scenes/The first challenge.unity
+    guid: 99767d5c4528b0b4fa622cf2491cf005
+  - enabled: 1
+    path: Assets/Scenes/A little of curves.unity
+    guid: a8c83ca3d8e13074db2c5d483dfa075c
+  - enabled: 1
+    path: Assets/Scenes/Starting to explore the curves in depth.unity
+    guid: 8a15f4cae4ae29e44bbc38b51b9299e3
+  - enabled: 1
+    path: Assets/Scenes/A real challenge with curves.unity
+    guid: acdb58f1892b6fd42929b6c45a756875
+  - enabled: 1
+    path: Assets/Scenes/Reaching the mothership.unity
+    guid: a41dd660835642b4fae689dc6dd47261
+  - enabled: 1
+    path: Assets/Scenes/Inside the mothership.unity
+    guid: 936f2510ffab2864aabeee5ecbbe12d7
+  - enabled: 1
+    path: Assets/Scenes/Starting to explore straight lanes with curves.unity
+    guid: 26f1ee0c48d78a640a0915e0cea614be
+  - enabled: 1
+    path: Assets/Scenes/A little bit of sharp curves.unity
+    guid: 82f1aa08607aff24090895a76ba2e56b
+  - enabled: 1
+    path: Assets/Scenes/Some straight lanes with simple curves.unity
+    guid: 80f8c02b7a85758489e4ad7a5cd3a738
+  - enabled: 1
+    path: Assets/Scenes/Straight lanes with sharp curves.unity
+    guid: 69c52d411146a074baa59f836755314a
+  - enabled: 1
+    path: Assets/Scenes/The mothership core.unity
+    guid: 27ab10880dd087945bcfdbdc2995a977
+  - enabled: 1
+    path: Assets/Scenes/After the detonation.unity
+    guid: c855e4d9632dcda41989ede4b40ae0f5
+  - enabled: 1
+    path: Assets/Scenes/Several sharp curves.unity
+    guid: f14e8f93a521ec848a83d3165dad0d18
+  - enabled: 1
+    path: Assets/Scenes/A long and wide way.unity
+    guid: db86c74845d4fd94fbe15713a65dddf7
+  - enabled: 1
+    path: Assets/Scenes/The last path.unity
+    guid: a5076be24f802694aa5e88d343298079
+  - enabled: 1
+    path: Assets/Scenes/End of the journey.unity
+    guid: 4f1a26bcc26d6784bb3a654c2d14ee85
+  m_configObjects: {}
